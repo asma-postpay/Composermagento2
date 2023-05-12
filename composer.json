@@ -1,5 +1,5 @@
 {
-    "name": "postpay/magento2",
+    "name": "composer/magento2",
     "description": "Postpay Payment Gateway for Magento 2",
     "type": "magento2-module",
     "license": "BSD-3-Clause",
@@ -8,16 +8,8 @@
     "keywords": ["gateway", "magento", "magento2", "payment", "postpay"],
     "authors": [
         {
-            "email": "david@postpay.io",
-            "name": "David Tran"
-        },
-        {
-            "email": "dani@postpay.io",
-            "name": "Dani Molina"
-        },
-        {
-            "email": "marko@devgenii.com",
-            "name": "Marko Martinovic"
+            "email": "asma.hawari@postpay.io",
+            "name": "Asma Hawari"
         }
     ],
     "support": {
@@ -31,7 +23,7 @@
         }
     ],
     "require": {
-        "magento/framework": "^101.0.0|^102.0.0|^103.0.0",
+        "php": "^7.1|^8.0",
         "postpay/postpay-php": "~0.0.4",
         "guzzlehttp/guzzle": "^6.0"
     },
