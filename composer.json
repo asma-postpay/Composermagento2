@@ -55,5 +55,7 @@
         "fix": [
             "php-cs-fixer fix ."
         ]
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
