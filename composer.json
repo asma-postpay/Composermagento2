@@ -1,10 +1,10 @@
 {
-    "name": "composer/magento2",
+    "name": "asmapostpay/magento2",
     "description": "Postpay Payment Gateway for Magento 2",
     "type": "magento2-module",
     "license": "BSD-3-Clause",
-    "version": "0.2.4",
-    "homepage": "https://github.com/postpayio/magento2",
+    "version": "1.0.0",
+    "homepage": "https://github.com/asma-postpay/Composermagento2",
     "keywords": ["gateway", "magento", "magento2", "payment", "postpay"],
     "authors": [
         {
@@ -13,8 +13,8 @@
         }
     ],
     "support": {
-        "source": "https://github.com/postpayio/magento2",
-        "issues": "https://github.com/postpayio/magento2/issues"
+        "source": "https://github.com/asma-postpay/Composermagento2",
+        "issues": "https://github.com/asma-postpay/Composermagento2/issues"
     },
     "repositories": [
         {
