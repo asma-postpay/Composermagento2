@@ -56,5 +56,5 @@
         "fix": [
             "php-cs-fixer fix ."
         ]
-    },
+    }
 }
