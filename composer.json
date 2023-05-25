@@ -2,7 +2,7 @@
     "name": "asmapostpay/magento2",
     "description": "Postpay Payment Gateway for Magento 2",
     "type": "magento2-module",
-    "license": "BSD-3-Clause",
+    "license": "MIT",
     "version": "2.0.0",
     "minimum-stability": "stable",
     "homepage": "https://github.com/asma-postpay/Composermagento2",
