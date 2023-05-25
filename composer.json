@@ -26,7 +26,7 @@
     "require": {
         "php": "^7.1|^8.0",
         "postpay/postpay-php": "~0.0.4",
-        "guzzlehttp/guzzle": "~6.0"
+        "guzzlehttp/guzzle": "^6.0|^7.0"
     },
     "require-dev": {
         "magento/magento-coding-standard": "*",
