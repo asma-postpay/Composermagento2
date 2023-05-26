@@ -13,7 +13,7 @@
   ],
   "require": {
     "php": "^7.1|^8.0",
-    "postpay/postpay-php": "~0.0.4",
+    "postpay/postpay-php": "~0.1.1",
     "guzzlehttp/guzzle": "^6.0|^7.0"
   },
   "autoload": {
